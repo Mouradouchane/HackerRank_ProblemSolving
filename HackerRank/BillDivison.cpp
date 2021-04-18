@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 
+// problem : https://www.hackerrank.com/challenges/bon-appetit/
+
+// soultion ===============================================================
 void bonAppetit(vector<int> bill, int k, int b) {
     int annaTotal = 0;
     int total = 0;
@@ -16,4 +19,4 @@ void bonAppetit(vector<int> bill, int k, int b) {
     if(annaTotal == b) std::cout << "Bon Appetit" << std::endl;
     else std::cout << b - annaTotal << std::endl;
 }
-
+//========================================================================
