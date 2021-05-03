@@ -1,7 +1,9 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+//#include <bits/stdc++.h>
 
+using namespace std;
 // problem : https://www.hackerrank.com/challenges/bon-appetit/
-
 // soultion ===============================================================
 void bonAppetit(vector<int> bill, int k, int b) {
     int annaTotal = 0;

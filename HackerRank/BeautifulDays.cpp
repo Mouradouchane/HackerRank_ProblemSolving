@@ -3,8 +3,6 @@
 // problem : https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?h_r=next-challenge&h_v=zen
 // soultion =====================================================================================
 
-// ==============================================================================================*  3. INTEGER k
-
 // this function just for reversing numbers '10 => 01' :)
 int reversDigits(int num){
     int rev_num = 0;
@@ -31,10 +29,11 @@ int beautifulDays(int s, int e, int k) {
         // reversing first 
         rd = reversDigits(s);
 	// then we check if beautiful day or not by using this formula from task descriptions :)
-        if((d - rd)%k == 0) BD +=1; 
+        if((BD - rd)%k == 0) BD +=1; 
 
         s += 1;
     }
     
     return BD;
 }
+// ==============================================================================================*  3. INTEGER k
