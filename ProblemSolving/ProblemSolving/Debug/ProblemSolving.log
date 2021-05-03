@@ -1,5 +1,3 @@
 ﻿  CutTheSticks.cpp
-C:\Users\dev\Desktop\C C++\HackerRank_ProblemSolving\HackerRank\CutTheSticks.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
-  ProblemSolving.cpp
-  Generating Code...
+C:\Users\dev\Desktop\C C++\HackerRank_ProblemSolving\HackerRank\CutTheSticks.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
   ProblemSolving.vcxproj -> C:\Users\dev\Desktop\C C++\HackerRank_ProblemSolving\ProblemSolving\Debug\ProblemSolving.exe
