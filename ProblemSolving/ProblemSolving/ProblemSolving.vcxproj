@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\HackerRank\CutTheSticks.cpp" />
+    <ClCompile Include="..\..\HackerRank\EqualizetheArray.cpp" />
     <ClCompile Include="ProblemSolving.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -21,5 +21,8 @@
     <ClCompile Include="..\..\HackerRank\CutTheSticks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\HackerRank\EqualizetheArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
